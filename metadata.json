@@ -1,0 +1,8 @@
+{
+  "name": "Math Masters",
+  "description": "Math learning and practice platform with interactive challenges, real-time leaderboards, and offline student performance tracking.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}

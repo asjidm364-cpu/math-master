@@ -1,0 +1,30 @@
+@import "tailwindcss";
+
+@layer base {
+  body {
+    font-family: 'Plus Jakarta Sans', system-ui, -apple-system, sans-serif;
+  }
+}
+
+/* Custom Vibrant Neo-Pop Shadows */
+.shadow-pop-amber {
+  box-shadow: 4px 4px 0px 0px rgba(180, 83, 9, 1);
+}
+.shadow-pop-sky {
+  box-shadow: 6px 6px 0px 0px rgba(56, 189, 248, 1);
+}
+.shadow-pop-emerald {
+  box-shadow: 6px 6px 0px 0px rgba(52, 211, 153, 1);
+}
+.shadow-pop-indigo {
+  box-shadow: 6px 6px 0px 0px rgba(129, 140, 248, 1);
+}
+.shadow-pop-rose {
+  box-shadow: 6px 6px 0px 0px rgba(251, 113, 133, 1);
+}
+.shadow-pop-purple {
+  box-shadow: 6px 6px 0px 0px rgba(192, 132, 252, 1);
+}
+.shadow-pop-slate {
+  box-shadow: 4px 4px 0px 0px rgba(71, 85, 105, 1);
+}
